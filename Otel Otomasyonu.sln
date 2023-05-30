@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Otel Otomasyonu", "Otel Otomasyonu\Otel Otomasyonu.csproj", "{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Debug|x64.ActiveCfg = Debug|x64
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Debug|x64.Build.0 = Debug|x64
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Debug|x86.ActiveCfg = Debug|x86
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Debug|x86.Build.0 = Debug|x86
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Release|x64.ActiveCfg = Release|x64
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Release|x64.Build.0 = Release|x64
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Release|x86.ActiveCfg = Release|x86
+		{F534D764-A47C-4AF0-9F31-BFB54E8B58AE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37BC50E3-76CE-4BD6-9CA5-22F6AB65224E}
+	EndGlobalSection
+EndGlobal
