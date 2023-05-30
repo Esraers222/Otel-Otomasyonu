@@ -6,16 +6,11 @@ Bu projede bir otel kayıt sistemi yapılmıştır. Sistem admin giriş sayfası
 
 A hotel registration system has been built in this project. The system starts with the administrator login page. The administrator redirects to the Main form page after entering the password and password. You can switch to the desired area by pressing the buttons here. You can add new customers, see whether the rooms are full or empty, and make changes to customer data. All data is stored in sql, and the changes you make also take place there.
 
-![Ekran Görüntüsü (933)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/ef6506b8-5f16-4754-9e16-9ae5e96c1327)
-
-![Ekran Görüntüsü (934)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/b26591ab-4b2f-4ba0-b66b-f31d37178195)
-
-![Ekran Görüntüsü (935)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/59a99d3c-8455-45c7-b608-6ffb997facfd)
-
-![Ekran Görüntüsü (936)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/1b399870-a3a5-49ac-9b79-066aae4b899d)
-
-![Ekran Görüntüsü (937)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/09f9e08a-f6e2-47e0-875f-ca43e4cf7240)
-
-![Ekran Görüntüsü (938)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/407d2e6e-1eff-4020-a33b-05646a21795c)
+![Ekran Görüntüsü (933)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/cd267ee1-c84c-4347-a782-31c3253123af)
+![Ekran Görüntüsü (934)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/c52d1809-1428-43eb-8d40-6d777b67c875)
+![Ekran Görüntüsü (935)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/2c52d0cf-568c-404a-88ed-454ecb3faf64)
+![Ekran Görüntüsü (936)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/2f152b85-4b0c-4f48-97bc-c2661ec76ad7)
+![Ekran Görüntüsü (937)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/15fe4ec7-eb1a-440d-9fd1-c97cb209479c)
+![Ekran Görüntüsü (938)](https://github.com/Esraers222/Otel-Otomasyonu/assets/88531411/e058ff26-3e70-4dfe-b3c9-86f79f0b0fad)
 
 
